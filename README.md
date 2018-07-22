@@ -16,3 +16,15 @@ In particular, we will be using the “Individual household electric power consu
 7. Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).
 8. Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+
+* The following are the names of R scripts:
+1. plot1.R
+2. plot2.R
+3. plot3.R
+4. plot4.R
+
+* The following are png files containing the results of the R scripts:
+1. plot1.png
+2. plot2.png
+3. plot3.png
+4. plot4.png
